@@ -1,5 +1,3 @@
-# Fantasy-Football-Proyect
-
 # Fantasy Premier League (FPL) - Data Pipeline & BI
 
 Este repositorio contiene una prueba de concepto de un pipeline de datos *batch* que extrae, procesa y modela estadísticas de jugadores de la API pública de la Fantasy Premier League.
